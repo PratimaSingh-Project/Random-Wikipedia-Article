@@ -1,2 +1,3 @@
 # Random-Wikipedia-Article
-Python Internship Project. Made by- Ujjwal Singh, Yash Jaiswal, Aagiya Singh, Aakash Kumar Taprania 
+Project Work for Summer Internship Program(2020) - "Joy of Programming using Python".
+Made by- Ujjwal Singh, Yash Jaiswal, Aagiya Singh, Aakash Kumar Taprania 
